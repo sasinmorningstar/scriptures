@@ -1,0 +1,28 @@
+{
+    "info": {
+        "id": "sb/10/18/21",
+        "prevId": "sb/10/18/20",
+        "nextId": "sb/10/18/22"
+    },
+    "verses": [
+        {
+            "roman": "ācerur vividhāḥ krīḍā\nvāhya-vāhaka-lakṣaṇāḥ\nyatrārohanti jetāro\nvahanti ca parājitāḥ\n"
+        }
+    ],
+    "synonyms": "āceruḥ—they performed; vividhāḥ—various; krīḍāḥ—sports; vāhya—by the carried; vāhaka—the carrier; lakṣaṇāḥ—characterized; yatra—in which; ārohanti—climb; jetāraḥ—the winners; vahanti—carry; ca—and; parājitāḥ—the defeated.",
+    "translation": "\nThe boys played various games involving carriers and passengers. In these games the winners would climb up on the backs of the losers, who would have to carry them.\n\n",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "\nŚrīla Sanātana Gosvāmī quotes the following relevant verse from the Viṣṇu Purāṇa (5.9.12):\n"
+        },
+        {
+            "type": "verse",
+            "content": "hariṇākrīḍanaṁ nāma\nbāla-krīdaṇakaṁ tataḥ\nprakrīḍatā hi te sarve\ndvau dvau yugapad utpatan"
+        },
+        {
+            "type": "normal",
+            "content": "\n\"They then played the childhood game known as hariṇākrīḍanam, in which each boy paired off with an opponent and all the boys simultaneously attacked their respective rivals.\"\n"
+        }
+    ]
+}

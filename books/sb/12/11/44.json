@@ -1,0 +1,68 @@
+{
+    "info": {
+        "id": "sb/12/11/44",
+        "prevId": "sb/12/11/43",
+        "nextId": "sb/12/11/45"
+    },
+    "verses": [
+        {
+            "roman": "viṣṇur aśvataro rambhā\nsūryavarcāś ca satyajit\nviśvāmitro makhāpeta\nūrja-māsaṁ nayanty amī\n"
+        }
+    ],
+    "synonyms": "viṣṇuḥ aśvataraḥ rambhā—Viṣṇu, Aśvatara and Rambhā; sūryavarcāḥ—Sūryavarcā; ca—and; satyajit—Satyajit; viśvāmītraḥ makhāpetaḥ—Viśvāmitra and Makhāpeta; ūrja-māsam—the month of Ūrja (Kārttika); nayanti—rule; amī—these.",
+    "translation": "\nViṣṇu as the sun-god, Aśvatara as the Nāga, Rambhā as the Apsarā, Sūryavarcā as the Gandharva, Satyajit as the Yakṣa, Viśvāmitra as the sage and Makhāpeta as the Rākṣasa rule the month of Ūrja.\n\n",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "\nAll these sun-gods and their associates are mentioned in divisions in the Kūrma Purāṇa, as follows:\n"
+        },
+        {
+            "type": "verse",
+            "content": "dhātāryamā ca mitraś ca\nvaruṇaś cendra eva ca\nvivasvān atha pūṣā ca\nparjanyaś cāṁśur eva ca"
+        },
+        {
+            "type": "verse",
+            "content": "bhagas tvaṣṭā ca viṣṇuś ca\nādityā dvādaśa smṛtāḥ\npulastyaḥ pulahaś cātrir\nvasiṣṭo 'thāṅgirā bhṛguḥ"
+        },
+        {
+            "type": "verse",
+            "content": "gautamo 'tha bharadvājaḥ\nkaśyapaḥ kratur eva ca\njamadagniḥ kauśikaś ca\nmunayo brahma-vādināḥ"
+        },
+        {
+            "type": "verse",
+            "content": "rathakṛc cāpy athojāś ca\ngrāmaṇīḥ surucis tathā\nratha-citrasvanaḥ śrotā\naruṇaḥ senajit tathā\ntārkṣya ariṣṭanemiś ca\nṛtajit satyajit tathā"
+        },
+        {
+            "type": "verse",
+            "content": "atha hetiḥ prahetiś ca\npauruṣeyo vadhas tathā\nvaryo vyāghras tathāpaś ca\nvāyur vidyud divākaraḥ"
+        },
+        {
+            "type": "verse",
+            "content": "brahmāpetaś ca vipendrā\nyajñāpetaś ca rākṣakāḥ\nvāsukiḥ kacchanīraś ca\ntakṣakaḥ śukra eva ca"
+        },
+        {
+            "type": "verse",
+            "content": "elāpatraḥ śaṅkhapālas\ntathairāvata-saṁjñitaḥ\ndhanañjayo mahāpadmas\ntathā karkoṭako dvijāḥ"
+        },
+        {
+            "type": "verse",
+            "content": "kambalo 'śvataraś caiva\nvahanty enaṁ yathā-kramam\ntumburur nārado hāhā\nhūhūr viśvāvasus tathā"
+        },
+        {
+            "type": "verse",
+            "content": "ugraseno vasurucir\nviśvavasur athāparaḥ\ncitrasenas tathorṇāyur\ndhṛṭarāṣṭro dvijottamāḥ"
+        },
+        {
+            "type": "verse",
+            "content": "sūryavarcā dvādaśaite\ngandharvā gāyatāṁ varāḥ\nkṛtasthaly apsaro-varyā\ntathānyā puñjikasthalī"
+        },
+        {
+            "type": "verse",
+            "content": "menakā sahajanyā ca\npramlocā ca dvijottamāḥ\nanumlocā ghṛtācī ca\nviśvācī corvaśī tathā"
+        },
+        {
+            "type": "verse",
+            "content": "anyā ca pūrvacittiḥ syād\nanyā caiva tilottamā\nrambhā ceti dvija-śreṣṭhās\ntathaivāpsarasaḥ smṛtāḥ"
+        }
+    ]
+}

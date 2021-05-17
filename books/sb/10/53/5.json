@@ -1,0 +1,28 @@
+{
+    "info": {
+        "id": "sb/10/53/5",
+        "prevId": "sb/10/53/4",
+        "nextId": "sb/10/53/6"
+    },
+    "verses": [
+        {
+            "roman": "sa cāśvaiḥ śaibya-sugrīva-\nmeghapuṣpa-balāhakaiḥ\nyuktaṁ ratham upānīya\ntasthau prāñjalir agrataḥ\n"
+        }
+    ],
+    "synonyms": "saḥ—he, Dāruka; ca—and; aśvaiḥ—with the horses; śaibya-sugrīva-meghapuṣpa-balāhakaiḥ—named Śaibya, Sugrīva, Meghapuṣpa and Balāhaka; yuktam—yoked; ratham—the chariot; upānīya—bringing; tasthau—stood; prāñjaliḥ—with palms joined in reverence; agrataḥ—in front.",
+    "translation": "\nDāruka brought the Lord's chariot, yoked with the horses named Śaibya, Sugrīva, Meghapuṣpa and Balāhaka. He then stood before Lord Kṛṣṇa with joined palms.\n\n",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "\nŚrīla Viśvanātha Cakravartī quotes the following text of the Padma Purāṇa describing Lord Kṛṣṇa's chariot horses:\n"
+        },
+        {
+            "type": "verse",
+            "content": "śaibyas tu śuka-patrābhaḥ\nsugrīvo hema-piṅgalaḥ\nmeghapuṣpas tu meghābhaḥ\npāṇḍuro hi balāhakaḥ"
+        },
+        {
+            "type": "normal",
+            "content": "\n\"Śaibya was green like a parrot's wings, Sugrīva yellow-gold, Meghapuṣpa the color of a cloud, and Balāhaka whitish.\"\n"
+        }
+    ]
+}

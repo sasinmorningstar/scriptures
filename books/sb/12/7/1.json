@@ -1,0 +1,28 @@
+{
+    "info": {
+        "id": "sb/12/7/1",
+        "prevId": "sb 12/7/Summary",
+        "nextId": "sb/12/7/2"
+    },
+    "verses": [
+        {
+            "roman": "sūta uvāca\natharva-vit sumantuś ca\nśiṣyam adhyāpayat svakām\nsaṁhitāṁ so 'pi pathyāya\nvedadarśāya coktavān\n"
+        }
+    ],
+    "synonyms": "sūtaḥ uvāca—Sūta Gosvāmī said; atharva-vit—the expert knower of the Atharva Veda; sumantuḥ—Sumantu; ca—and; śiṣyam—to his disciple; adhyāpayat—instructed; svakām—his own; saṁhitām—collection; saḥ—he, the disciple of Sumantu; api—also; pathyāya—to Pathya; vedadarśāya—to Vedadarśa; ca—and; uktavān—spoke.",
+    "translation": "\nSūta Gosvāmī said: Sumantu Ṛṣi, the authority on the Atharva Veda, taught his saṁhitā to his disciple Kabandha, who in turn spoke it to Pathya and Vedadarśa.\n\n",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "\nAs confirmed in the Viṣṇu Purāṇa:\n"
+        },
+        {
+            "type": "verse",
+            "content": "atharva-vedaṁ sa muniḥ\nsumantur amita-dyutiḥ\nśiṣyam adhyāpayām āsa\nkabandhaṁ so 'pi ca dvidhā\nkṛtvā tu vedadarśāya\ntathā pathyāya dattavān"
+        },
+        {
+            "type": "normal",
+            "content": "\n\"That sage Sumantu, whose brilliance was immeasurable, taught the Atharva Veda to his disciple Kabandha. Kabandha in turn divided it into two parts and passed them down to Vedadarśa and Pathya.\"\n"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "info": {
+        "id": "sb/10/50/55",
+        "prevId": "sb/10/50/54",
+        "nextId": "sb/10/50/56"
+    },
+    "verses": [
+        {
+            "roman": "śyāmaika-varṇān varuṇo\nhayān śuklān mano-javān\naṣṭau nidhi-patiḥ kośān\nloka-pālo nijodayān\n"
+        }
+    ],
+    "synonyms": "śyāma—dark blue; eka—exclusively; varṇān—colored; varuṇaḥ—Varuṇa, ruler of the oceans; hayān—horses; śuklān—white; manaḥ—(as the) mind; javān—swift; aṣṭau—eight; nidhi-patiḥ—the treasurer of the demigods, Kuvera; kośān—treasures; loka-pālaḥ—the rulers of various planets; nija—their own; udayān—opulences.",
+    "translation": "\nLord Varuṇa offered horses as swift as the mind, some of which were pure dark-blue, others white. The treasurer of the demigods, Kuvera, gave his eight mystic treasures, and the rulers of various planets each presented their own opulences.\n\n",
+    "purport": [
+        {
+            "type": "normal",
+            "content": "\nŚrīla Śrīdhara Svāmī comments as follows on this verse: \"The master of the treasury is Kuvera, and the eight treasures are his nidhis. These are described as follows:\n"
+        },
+        {
+            "type": "verse",
+            "content": "padmaś caiva mahāpadmo\nmatsya-kūrmau tathaudakaḥ\nnīlo mukundaḥ śaṅkhaś ca\nnidhayo 'ṣṭau prakīrtitāḥ"
+        },
+        {
+            "type": "normal",
+            "content": "\n'The eight mystic treasures are called Padma, Mahāpadma, Matsya, Kūrma, Audaka, Nīla, Mukunda and Śaṅkha.' \"\n"
+        }
+    ]
+}
