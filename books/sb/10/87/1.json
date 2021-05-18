@@ -1,7 +1,7 @@
 {
     "info": {
         "id": "sb/10/87/1",
-        "prevId": "sb 10/87/Summary",
+        "prevId": "sb/10/87/summary",
         "nextId": "sb/10/87/2"
     },
     "verses": [
@@ -10,107 +10,107 @@
         }
     ],
     "synonyms": "śrī-parīkṣit uvāca—Śrī Parīkṣit said; brahman—O brāhmaṇa (Śukadeva); brahmaṇi—in the Absolute Truth; anirdeśye—which cannot be described in words; nirguṇe—which has no qualities; guṇa—the qualities of material nature; vṛttayaḥ—whose scope of action; katham—how; caranti—function (by referring); śrutayaḥ—the Vedas; sākṣāt—directly; sat—to material substance; asataḥ—and its subtle causes; pare—in that which is transcendental.",
-    "translation": "\nŚrī Parīkṣit said: O brāhmaṇa, how can the Vedas directly describe the Supreme Absolute Truth, who cannot be described in words? The Vedas are limited to describing the qualities of material nature, but the Supreme is devoid of these qualities, being transcendental to all material manifestations and their causes.\n\n",
+    "translation": "Śrī Parīkṣit said: O brāhmaṇa, how can the Vedas directly describe the Supreme Absolute Truth, who cannot be described in words? The Vedas are limited to describing the qualities of material nature, but the Supreme is devoid of these qualities, being transcendental to all material manifestations and their causes.",
     "purport": [
         {
             "type": "normal",
-            "content": "\nBefore beginning his commentary on this chapter, Śrīla Śrīdhara Svāmī prays:\n"
+            "content": "Before beginning his commentary on this chapter, Śrīla Śrīdhara Svāmī prays:"
         },
         {
             "type": "verse",
-            "content": "vāg-īśā yasya vadane\nlakṣmīr yasya ca vakṣasi\nyasyāste hṛdaye saṁvit\ntaṁ nṛṣiṁham ahaṁ bhaje"
+            "content": "vāg-īśā yasya vadanelakṣmīr yasya ca vakṣasi\nyasyāste hṛdaye saṁvittaṁ nṛṣiṁham ahaṁ bhaje"
         },
         {
             "type": "normal",
-            "content": "\n\"I worship Lord Nṛsiṁha, within whose mouth reside the great masters of eloquence, upon whose chest resides the goddess of fortune, and within whose heart resides the divine potency of consciousness.\"\n"
+            "content": "\"I worship Lord Nṛsiṁha, within whose mouth reside the great masters of eloquence, upon whose chest resides the goddess of fortune, and within whose heart resides the divine potency of consciousness.\""
         },
         {
             "type": "verse",
-            "content": "sampradāya-viśuddhy-arthaṁ\nsvīya-nirbandha-yantritaḥ\nśruti-stuti-mita-vyākhyāṁ\nkariṣyāmi yathā-mati"
+            "content": "sampradāya-viśuddhy-arthaṁsvīya-nirbandha-yantritaḥ\nśruti-stuti-mita-vyākhyāṁkariṣyāmi yathā-mati"
         },
         {
             "type": "normal",
-            "content": "\n\"Desiring to purify my sampradāya and being bound by duty, I will briefly comment on the prayers of the personified Vedas, to the best of my realization.\"\n"
+            "content": "\"Desiring to purify my sampradāya and being bound by duty, I will briefly comment on the prayers of the personified Vedas, to the best of my realization.\""
         },
         {
             "type": "verse",
-            "content": "śrīmad-bhāgavataṁ pūrvaiḥ\nsārataḥ sanniṣevitam\nmayā tu tad-upaspṛṣṭam\nucchiṣṭam upacīyate"
+            "content": "śrīmad-bhāgavataṁ pūrvaiḥsārataḥ sanniṣevitam\nmayā tu tad-upaspṛṣṭamucchiṣṭam upacīyate"
         },
         {
             "type": "normal",
-            "content": "\n\"In as much as Śrīmad-Bhāgavatam has already been perfectly honored by my predecessors' explanations, I can only gather together the remnants of what they have honored.\"\n"
+            "content": "\"In as much as Śrīmad-Bhāgavatam has already been perfectly honored by my predecessors' explanations, I can only gather together the remnants of what they have honored.\""
         },
         {
             "type": "normal",
-            "content": "Śrīla Viśvanātha Cakravartī offers his own invocation:\n"
+            "content": "Śrīla Viśvanātha Cakravartī offers his own invocation:"
         },
         {
             "type": "verse",
-            "content": "mama ratna-vaṇig-bhāvaṁ\nratnāny aparicinvataḥ\nhasantu santo jihremi\nna sva-svānta-vinoda-kṛt"
+            "content": "mama ratna-vaṇig-bhāvaṁratnāny aparicinvataḥ\nhasantu santo jihremina sva-svānta-vinoda-kṛt"
         },
         {
             "type": "normal",
-            "content": "\n\"The saintly devotees may laugh at me for becoming a jewel merchant though I know nothing about precious jewels. But I feel no shame, for at least I may entertain them.\"\n"
+            "content": "\"The saintly devotees may laugh at me for becoming a jewel merchant though I know nothing about precious jewels. But I feel no shame, for at least I may entertain them.\""
         },
         {
             "type": "verse",
-            "content": "na me 'sti vaiduṣy api nāpi bhaktir\nvirakti-raktir na tathāpi laulyāt\nsu-durgamād eva bhavāmi veda-\nstuty-artha-cintāmaṇi-rāśi-gṛdhnuḥ"
+            "content": "na me 'sti vaiduṣy api nāpi bhaktirvirakti-raktir na tathāpi laulyāt\nsu-durgamād eva bhavāmi veda-stuty-artha-cintāmaṇi-rāśi-gṛdhnuḥ"
         },
         {
             "type": "normal",
-            "content": "\n\"Though I have no wisdom, devotion or detachment, I am still greedy to take the philosopher's stone of the Vedas' prayers from the fortress in which it is being kept.\"\n"
+            "content": "\"Though I have no wisdom, devotion or detachment, I am still greedy to take the philosopher's stone of the Vedas' prayers from the fortress in which it is being kept.\""
         },
         {
             "type": "verse",
-            "content": "māṁ nīcatāyām aviveka-vāyuḥ\npravartate pātayituṁ balāc cet\nlikhāmy ataḥ svāmī-sanātana-śrī-\nkṛṣṇāṅghri-bhā-stambha-kṛtāvalambaḥ"
+            "content": "māṁ nīcatāyām aviveka-vāyuḥpravartate pātayituṁ balāc cet\nlikhāmy ataḥ svāmī-sanātana-śrī-kṛṣṇāṅghri-bhā-stambha-kṛtāvalambaḥ"
         },
         {
             "type": "normal",
-            "content": "\n\"If the wind of indiscretion—my failure to acknowledge my lowly position—threatens to knock me down, then while writing this commentary I must hold on to the effulgent pillars of the feet of Śrīdhara Svāmī, Sanātana Gosvāmī and Lord Śrī Kṛṣṇa.\"\n"
+            "content": "\"If the wind of indiscretion—my failure to acknowledge my lowly position—threatens to knock me down, then while writing this commentary I must hold on to the effulgent pillars of the feet of Śrīdhara Svāmī, Sanātana Gosvāmī and Lord Śrī Kṛṣṇa.\""
         },
         {
             "type": "verse",
-            "content": "praṇamya śrī-guruṁ bhūyaḥ\nśrī-kṛṣṇaṁ karuṇārṇavam\nloka-nāthaṁ jagac-cakṣuḥ\nśrī-śukaṁ tam upāśraye"
+            "content": "praṇamya śrī-guruṁ bhūyaḥśrī-kṛṣṇaṁ karuṇārṇavam\nloka-nāthaṁ jagac-cakṣuḥśrī-śukaṁ tam upāśraye"
         },
         {
             "type": "normal",
-            "content": "\n\"Repeatedly bowing down to my divine spiritual master and to Lord Śrī Kṛṣṇa, the ocean of mercy, I take shelter of Śrī Śukadeva Gosvāmī, the protector of the world and its universal eye.\"\n"
+            "content": "\"Repeatedly bowing down to my divine spiritual master and to Lord Śrī Kṛṣṇa, the ocean of mercy, I take shelter of Śrī Śukadeva Gosvāmī, the protector of the world and its universal eye.\""
         },
         {
             "type": "normal",
-            "content": "At the end of the preceding chapter, Śukadeva Gosvāmī told Parīkṣit Mahārāja,\n"
+            "content": "At the end of the preceding chapter, Śukadeva Gosvāmī told Parīkṣit Mahārāja,"
         },
         {
             "type": "verse",
-            "content": "evaṁ sva-bhaktayo rājan\nbhagavān bhakta-bhaktimān\nuṣitvādiśya san-mārgaṁ\npunar dvāravatīm agāt"
+            "content": "evaṁ sva-bhaktayo rājanbhagavān bhakta-bhaktimān\nuṣitvādiśya san-mārgaṁpunar dvāravatīm agāt"
         },
         {
             "type": "normal",
-            "content": "\n\"Thus, O King, the Personality of Godhead, who is the devotee of His own devotees, stayed for some time with His two great devotees, teaching them how perfect saints behave. Then He returned to Dvārakā.\" In this verse the word san-mārgam can be understood in at least three ways. In the first, sat is taken to mean \"devotee of the Supreme Lord,\" and thus san-mārgam means \"the path of bhakti-yoga, devotional service.\" In the second, with sat meaning \"a seeker of transcendental knowledge,\" san-mārgam means \"the philosophical path of knowledge,\" which has impersonal Brahman as its object. And in the third, with sat referring to the transcendental sound of the Vedas, san-mārgam means \"the process of following Vedic injunctions.\" Both the second and the third of these interpretations of san-mārgam lead to the question of how the Vedas can describe the Absolute Truth.\n"
+            "content": "\"Thus, O King, the Personality of Godhead, who is the devotee of His own devotees, stayed for some time with His two great devotees, teaching them how perfect saints behave. Then He returned to Dvārakā.\" In this verse the word san-mārgam can be understood in at least three ways. In the first, sat is taken to mean \"devotee of the Supreme Lord,\" and thus san-mārgam means \"the path of bhakti-yoga, devotional service.\" In the second, with sat meaning \"a seeker of transcendental knowledge,\" san-mārgam means \"the philosophical path of knowledge,\" which has impersonal Brahman as its object. And in the third, with sat referring to the transcendental sound of the Vedas, san-mārgam means \"the process of following Vedic injunctions.\" Both the second and the third of these interpretations of san-mārgam lead to the question of how the Vedas can describe the Absolute Truth."
         },
         {
             "type": "normal",
-            "content": "Śrīla Śrīdhara Svāmī elaborately analyzes this problem in terms of the traditional discipline of Sanskrit poetics: We should consider that words have three kinds of expressive capacities, called śabda-vṛttis. These are the different ways a word refers to its meaning, distinguished as mukhya-vṛtti, lakṣaṇā-vṛtti and gauṇa-vṛtti. The śabda-vṛtti termed mukhya is the primary, literal meaning of a word; this is also known as abhidhā, a word's \"denotation,\" or dictionary meaning. Mukhya-vṛtti is further divided into two subcategories, namely rūḍhi and yoga. A primary meaning is called rūḍhi when it is based on conventional usage, and yoga when it is derived from another word's meaning by regular etymological rules.\n"
+            "content": "Śrīla Śrīdhara Svāmī elaborately analyzes this problem in terms of the traditional discipline of Sanskrit poetics: We should consider that words have three kinds of expressive capacities, called śabda-vṛttis. These are the different ways a word refers to its meaning, distinguished as mukhya-vṛtti, lakṣaṇā-vṛtti and gauṇa-vṛtti. The śabda-vṛtti termed mukhya is the primary, literal meaning of a word; this is also known as abhidhā, a word's \"denotation,\" or dictionary meaning. Mukhya-vṛtti is further divided into two subcategories, namely rūḍhi and yoga. A primary meaning is called rūḍhi when it is based on conventional usage, and yoga when it is derived from another word's meaning by regular etymological rules."
         },
         {
             "type": "normal",
-            "content": "For example, the word go (\"cow\") is an example of rūḍhi, since its relation with its literal meaning is purely conventional. The denotation of the word pācaka (\"chef\"), on the other hand, is a yoga-vṛtti, through the word's derivation from the root pac (\"to cook\") by addition of the agent suffix -ka.\n"
+            "content": "For example, the word go (\"cow\") is an example of rūḍhi, since its relation with its literal meaning is purely conventional. The denotation of the word pācaka (\"chef\"), on the other hand, is a yoga-vṛtti, through the word's derivation from the root pac (\"to cook\") by addition of the agent suffix -ka."
         },
         {
             "type": "normal",
-            "content": "Beside its mukhya-vṛtti, or primary meaning, a word can also be used in a secondary, metaphorical sense. This usage is called lakṣaṇā. The rule is that a word should not be understood metaphorically if its mukhya-vṛtti makes sense in the given context; only after the mukhya-vṛtti fails to convey a word's meaning may lakṣaṇā-vṛtti be justifiably presumed. The function of lakṣaṇā is technically explained in the kāvya-śāstras as an extended reference, pointing to something in some way related to the object of the literal meaning. Thus, the phrase gaṅgāyāṁ ghoṣaḥ literally means \"the cowherd village in the Ganges.\" But that idea is absurd, so here gaṅgāyām should rather be understood by its lakṣaṇā to mean \"on the bank of the Ganges,\" the bank being something related to the river. Gauṇa-vṛtti is a special kind of lakṣaṇā, where the meaning is extended to some idea of similarity. For example, in the statement siṁho devadattaḥ (\"Devadatta is a lion\"), heroic Devadatta is metaphorically called a lion because of his lionlike qualities. In contrast, the example of the general kind of lakṣaṇā, namely gaṅgāyāṁ ghoṣaḥ, involves a relationship not of similarity but of location.\n"
+            "content": "Beside its mukhya-vṛtti, or primary meaning, a word can also be used in a secondary, metaphorical sense. This usage is called lakṣaṇā. The rule is that a word should not be understood metaphorically if its mukhya-vṛtti makes sense in the given context; only after the mukhya-vṛtti fails to convey a word's meaning may lakṣaṇā-vṛtti be justifiably presumed. The function of lakṣaṇā is technically explained in the kāvya-śāstras as an extended reference, pointing to something in some way related to the object of the literal meaning. Thus, the phrase gaṅgāyāṁ ghoṣaḥ literally means \"the cowherd village in the Ganges.\" But that idea is absurd, so here gaṅgāyām should rather be understood by its lakṣaṇā to mean \"on the bank of the Ganges,\" the bank being something related to the river. Gauṇa-vṛtti is a special kind of lakṣaṇā, where the meaning is extended to some idea of similarity. For example, in the statement siṁho devadattaḥ (\"Devadatta is a lion\"), heroic Devadatta is metaphorically called a lion because of his lionlike qualities. In contrast, the example of the general kind of lakṣaṇā, namely gaṅgāyāṁ ghoṣaḥ, involves a relationship not of similarity but of location."
         },
         {
             "type": "normal",
-            "content": "In this first verse of the Eighty-seventh Chapter, Parīkṣit Mahārāja expresses doubt as to how the words of the Vedas can refer to the Absolute Truth by any of the valid kinds of śabda-vṛtti. He asks, kathaṁ sākṣāt caranti: How can the Vedas directly describe Brahman by rūḍha-mukhya-vṛtti, literal meaning based on convention? After all, the Absolute is anirdeśya, inaccessible to designation. And how can the Vedas even describe Brahman by gauṇa-vṛtti, metaphor based on similar qualities?\n"
+            "content": "In this first verse of the Eighty-seventh Chapter, Parīkṣit Mahārāja expresses doubt as to how the words of the Vedas can refer to the Absolute Truth by any of the valid kinds of śabda-vṛtti. He asks, kathaṁ sākṣāt caranti: How can the Vedas directly describe Brahman by rūḍha-mukhya-vṛtti, literal meaning based on convention? After all, the Absolute is anirdeśya, inaccessible to designation. And how can the Vedas even describe Brahman by gauṇa-vṛtti, metaphor based on similar qualities?"
         },
         {
             "type": "normal",
-            "content": "The Vedas are guṇa-vṛttayaḥ, full of qualitative descriptions, but Brahman is nirguṇa, without qualities. Obviously, a metaphor based on similar qualities cannot apply in the case of something that has no qualities. Furthermore, Parīkṣit Mahārāja points out that Brahman is sad-asataḥ param, beyond all causes and effects. Having no connection with any manifest existence, subtle or gross, the Absolute cannot be expressed by either yoga-vṛtti, a meaning derived etymologically, or lakṣaṇā, metaphor, since both require some relationship of Brahman to other entities.\n"
+            "content": "The Vedas are guṇa-vṛttayaḥ, full of qualitative descriptions, but Brahman is nirguṇa, without qualities. Obviously, a metaphor based on similar qualities cannot apply in the case of something that has no qualities. Furthermore, Parīkṣit Mahārāja points out that Brahman is sad-asataḥ param, beyond all causes and effects. Having no connection with any manifest existence, subtle or gross, the Absolute cannot be expressed by either yoga-vṛtti, a meaning derived etymologically, or lakṣaṇā, metaphor, since both require some relationship of Brahman to other entities."
         },
         {
             "type": "normal",
-            "content": "Thus King Parīkṣit is puzzled as to how the words of the Vedas can directly describe the Absolute Truth.\n"
+            "content": "Thus King Parīkṣit is puzzled as to how the words of the Vedas can directly describe the Absolute Truth."
         }
     ]
 }

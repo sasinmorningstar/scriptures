@@ -1,7 +1,7 @@
 {
     "info": {
         "id": "sb/12/7/1",
-        "prevId": "sb 12/7/Summary",
+        "prevId": "sb/12/7/summary",
         "nextId": "sb/12/7/2"
     },
     "verses": [
@@ -10,19 +10,19 @@
         }
     ],
     "synonyms": "sūtaḥ uvāca—Sūta Gosvāmī said; atharva-vit—the expert knower of the Atharva Veda; sumantuḥ—Sumantu; ca—and; śiṣyam—to his disciple; adhyāpayat—instructed; svakām—his own; saṁhitām—collection; saḥ—he, the disciple of Sumantu; api—also; pathyāya—to Pathya; vedadarśāya—to Vedadarśa; ca—and; uktavān—spoke.",
-    "translation": "\nSūta Gosvāmī said: Sumantu Ṛṣi, the authority on the Atharva Veda, taught his saṁhitā to his disciple Kabandha, who in turn spoke it to Pathya and Vedadarśa.\n\n",
+    "translation": "Sūta Gosvāmī said: Sumantu Ṛṣi, the authority on the Atharva Veda, taught his saṁhitā to his disciple Kabandha, who in turn spoke it to Pathya and Vedadarśa.",
     "purport": [
         {
             "type": "normal",
-            "content": "\nAs confirmed in the Viṣṇu Purāṇa:\n"
+            "content": "As confirmed in the Viṣṇu Purāṇa:"
         },
         {
             "type": "verse",
-            "content": "atharva-vedaṁ sa muniḥ\nsumantur amita-dyutiḥ\nśiṣyam adhyāpayām āsa\nkabandhaṁ so 'pi ca dvidhā\nkṛtvā tu vedadarśāya\ntathā pathyāya dattavān"
+            "content": "atharva-vedaṁ sa muniḥsumantur amita-dyutiḥ\nśiṣyam adhyāpayām āsa\nkabandhaṁ so 'pi ca dvidhā\nkṛtvā tu vedadarśāyatathā pathyāya dattavān"
         },
         {
             "type": "normal",
-            "content": "\n\"That sage Sumantu, whose brilliance was immeasurable, taught the Atharva Veda to his disciple Kabandha. Kabandha in turn divided it into two parts and passed them down to Vedadarśa and Pathya.\"\n"
+            "content": "\"That sage Sumantu, whose brilliance was immeasurable, taught the Atharva Veda to his disciple Kabandha. Kabandha in turn divided it into two parts and passed them down to Vedadarśa and Pathya.\""
         }
     ]
 }

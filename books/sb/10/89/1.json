@@ -1,7 +1,7 @@
 {
     "info": {
         "id": "sb/10/89/1",
-        "prevId": "sb 10/89/Summary",
+        "prevId": "sb/10/89/summary",
         "nextId": "sb/10/89/2"
     },
     "verses": [
@@ -10,11 +10,11 @@
         }
     ],
     "synonyms": "śrī-śukaḥ uvāca—Śukadeva Gosvāmī said; sarasvatyāḥ—of the river Sarasvatī; taṭe—on the bank; rājan—O King (Parīkṣit); ṛṣayaḥ—sages; satram—a Vedic sacrifice; āsata—were performing; vitarkaḥ—a disagreement; samabhūt—arose; teṣām—among them; triṣu—among the three; adhīśeṣu—chief lords; kaḥ—who; mahān—the greatest.",
-    "translation": "\nŚukadeva Gosvāmī said: Once, O King, as a group of sages were performing a Vedic sacrifice on the banks of the Sarasvatī River, a controversy arose among them as to which of the three chief deities is supreme.\n\n",
+    "translation": "Śukadeva Gosvāmī said: Once, O King, as a group of sages were performing a Vedic sacrifice on the banks of the Sarasvatī River, a controversy arose among them as to which of the three chief deities is supreme.",
     "purport": [
         {
             "type": "normal",
-            "content": "\nThe three chief deities mentioned here are Lord Viṣṇu, Lord Brahmā and Lord Śiva.\n"
+            "content": "The three chief deities mentioned here are Lord Viṣṇu, Lord Brahmā and Lord Śiva."
         }
     ]
 }
