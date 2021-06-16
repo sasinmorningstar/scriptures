@@ -6,14 +6,14 @@ def current_id_replacements(current_id):
     return current_id
 
 
-
 def devanagari_replacements(devanagari):
     devanagari = devanagari.replace('<div class="devanagari">', '')
     devanagari = devanagari.replace('</div>', '')
-    devanagari = devanagari.replace('<dl>', '---')
+    devanagari = devanagari.replace('<dl>', '')
     devanagari = devanagari.replace('</dl>', '')
     devanagari = devanagari.replace('<dd>', '')
-    devanagari = devanagari.replace('</dd>', '')
+    devanagari = devanagari.replace('\u0965<', '---')
+    devanagari = devanagari.replace('/dd>', '')
 
     return devanagari
 

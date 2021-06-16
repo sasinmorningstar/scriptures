@@ -3,6 +3,7 @@ import requests_cache
 import json
 from bs4 import BeautifulSoup
 from pathlib import Path
+from itertools import zip_longest
 from multiprocessing import Pool
 from BG_replacements import devanagari_replacements, current_id_replacements, verse_replacements, synonyms_replacements,translation_replacements, purport_replacements
 
@@ -76,10 +77,12 @@ def parser(soup):
             current_id = current_id[:-7]
             _index = current_id[5:]
             current_chapter = int(current_id[3])
+            print(current_chapter)
         else:
             current_id = current_id[:-7]
             _index = current_id[6:]
             current_chapter = int(current_id[3:5])
+            print(current_chapter)
 
 
     if len(pointers)==1:
@@ -104,10 +107,12 @@ def parser(soup):
             print(next_chapter)
 
         else:
-            if current_chapter>10:
+            if current_chapter>=10:
                 next_chapter = int(next_string[3:5])
+                print(next_chapter)
             else:
                 next_chapter = int(next_string[3])
+                print(next_chapter)
 
     else:
         navigation = {"id": current_id, "prevId": pointers[0], "nextId": pointers[1]}
@@ -131,33 +136,44 @@ def parser(soup):
             print(next_chapter)
 
         else:
-            if current_chapter>10:
+            if current_chapter>=10:
                 next_chapter = int(next_string[3:5])
+                print(next_chapter)
             else:
                 next_chapter = int(next_string[3])
+                print(next_chapter)
 
 
+    verse_entry = None
 
     # Preparing Devanagari Entry
     devanagari = str(soup.find("div", {"class":"devanagari"}))
-    devanagari_entry = None
+    # devanagari_entry = None
 
     if devanagari:
         devanagari = devanagari_replacements(devanagari)
         devanagari_entries = list(filter(None, list(devanagari.split('---'))))
-        devanagari_entry = [{"devanagari": devanagari} for devanagari in devanagari_entries]
-        devanagari_entry = devanagari_entry[1:]
+        devanagari_entries = devanagari_entries[:-1]
+        devanagari_entries = [entry.replace('\n','',1) for entry in devanagari_entries]
+        print(devanagari_entries)
+        # devanagari_entry = [{"devanagari": devanagari} for devanagari in devanagari_entries]
+        # devanagari_entry = devanagari_entry[1:]
 
 
-    # Preparing Verse Entry
+    # Preparing Roman Entry
     verse = str(soup.find("div", {"class":"verse"}))
-    verse_entry = None
+    # roman_entry = None
 
     if verse:
         verse = verse_replacements(verse)
         verse_entries = list(filter(None, list(verse.split('---'))))
-        verse_entry = [{"roman": verse} for verse in verse_entries]
-        verse_entry = verse_entry[1:]
+        verse_entries = verse_entries[1:]
+        print(verse_entries)
+        # verse_entry = [{"roman": verse} for verse in verse_entries]
+        # verse_entry = verse_entry[1:]
+
+    verse_entry = [{"roman": roman, "devanagari": devanagari} for roman, devanagari in zip_longest(verse_entries, devanagari_entries, fillvalue="The value for this key has been captured in its entirety in the previous dictionaries itself")]
+
 
     # Preparing Synonyms Entry
     synonyms = str(soup.find("div", {"class": "synonyms"}))
@@ -202,7 +218,7 @@ def parser(soup):
 
 
     # Preparing the consolidated JSON entry.
-    knowledge = {"info": navigation, "verses":verse_entry, "devanagari": devanagari_entry, "synonyms": synonyms_entry, "translation": translation_entry, "purport": purport_entry}
+    knowledge = {"info": navigation, "verses": verse_entry, "synonyms": synonyms_entry, "translation": translation_entry, "purport": purport_entry}
 
     json_knowledge = json.dumps(knowledge, indent=4, ensure_ascii=False)
 
@@ -279,10 +295,10 @@ def parser(soup):
 
 
 # Driver Code for parser
-chap = 10
+chap = 1
 total = 1
 
-while chap<11:
+while chap<19:
     for chapter in range(chap, chap+1):
         for _index in range(total,total+1):
             url = f'https://vanisource.org/wiki/BG_{chapter}.{_index}_(1972)'
